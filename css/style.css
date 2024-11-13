@@ -1,0 +1,908 @@
+ .header1
+{
+	background-color: black;
+}
+.container
+{
+	max-width: 1400px;
+}
+.main-heading ul
+{
+	list-style-type: none;
+    margin-top: 20px;
+}
+.main-heading ul li a
+{
+	text-decoration: none;
+	font-weight: 800;
+    font-size: 27px;
+    color: #fff;
+    line-height: 1.1;
+}
+.main-heading ul li a small
+{
+	font-size: 27px;
+    color: #73b925;
+}
+.main-heading ul li a span
+{
+    color: #999999;
+    font-size: 11px;
+    display: block;
+    font-weight: 600;
+    letter-spacing: 2px; 
+}
+.header1 .icon span
+{
+    color: #73b925;
+    font-size: 30px;
+    line-height: 1;
+    margin-top: 25px;
+    padding-left: 20px;
+}
+.header1 .text ul 
+{
+    list-style-type: none;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+.header1 .text ul li span
+{
+    color: #73b925;
+    display: block;
+    line-height: 1.1;
+}
+.header1 .text ul li a{
+   text-decoration: none;
+   color: #999999;
+}
+.header1 .text ul li strong
+{
+    color: #999999;
+    font-size: 15px;
+}
+
+.header2
+{
+    background-color: #73b925;
+}
+.header2 .navbar
+{
+    padding: 0px !important;
+}
+.header2 .navbar-nav
+{
+    background-color: #73b925;
+    padding: 15px;
+}
+.header2 .navbar-nav .nav-link
+{
+    color: white;
+    font-size: 20px;
+    padding-right: 50px;
+}
+.header2 .navbar-nav ul li a:hover
+{
+    color: white;
+}
+
+/*....................sec1....................*/
+
+.sec1 .carousel-item img
+{
+    width: 100%;
+    height: 600px;
+}
+.carousel-slide
+{
+	position: relative;
+}
+.content0
+{
+	position: absolute;
+	bottom: 140px;
+	width: 100%;
+}
+.carousel-caption small
+{
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fff;
+    font-weight: 600;
+    background: rgba(255,255,255,.1);
+    padding: 2px 15px;
+    border-radius: 50px 0 50px 0;
+}
+.carousel-caption h1
+{
+    font-weight: 400;
+    color: #fff;
+    font-size: 60px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+.carousel-caption p
+{
+	color: white;
+	margin-bottom: 20px;
+    font-weight: 500;
+}
+.button0 .btn
+{
+    
+	background-color: #73b925;
+	color: white;
+	padding: 10px 45px;
+	margin-top: 20px;
+	border: 0px;
+	font-size: 20px;
+}
+
+
+/*.......................sec2.......................*/
+
+.sec2{
+    background-color: whitesmoke;
+}
+.sec2 .main-heading h6
+{ 
+    text-align: center;
+    color: #73b925;
+    margin-top: 60px;
+}
+.sec2 .main-heading p
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 0px 386px;
+}
+.sec2 .main-heading p span
+{
+    color: #73b925;
+}
+.sec2 .card{
+    border: none;
+    background-color: white;
+}
+.sec2 .card:hover
+{
+    background-color: #73b925;
+    color: white;
+}
+.sec2 .card:hover p
+{
+    color: white;
+}
+.sec2 .card:hover .icon
+{
+    background-color: white;
+    color: #73b925;
+}
+.sec2 .card .icon
+{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    background: #73b925;
+    color: #fff;
+    border-radius: 0 50% 50% 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.sec2 .card .icon span
+{
+    font-size: 38px;
+    line-height: 1.2;
+ 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sec2 .card p
+{
+    font-size: 24px;
+    color: #999999;
+}
+.sec2 .card p:hover
+{
+    color: white;
+}
+
+
+/*...................sec3..................*/
+
+.sec3
+{
+    background-color: #e9e5e5;
+}
+.sec3 .main-heading h6
+{ 
+    text-align: center;
+    color: #73b925;
+    margin-top: 30px;
+}
+.sec3 .main-heading p
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 0px 386px;
+}
+.sec3 .img img
+{
+    width: 475px !important;
+    height: 325px !important;
+}
+.sec3 .text
+{
+    background-color: white;
+    padding: 30px;
+    margin: 0px;
+}
+.sec3 .text small
+{
+    color: #73b925;
+    font-size: 13px;
+    text-transform: uppercase;
+    display: inline-block;
+    background: #effae4;
+    padding: 1px 5px;
+    border-radius: 2px;
+}
+.sec3 .text h5
+{
+    font-weight: 500;
+    color: #000;
+    font-size: 20px;
+}
+.sec3 .text .progress
+{
+    margin-bottom: 15px;
+}
+.sec3 .text .progress-bar
+{
+    background: #d7f1b9;
+    box-shadow: none;
+    font-size: 12px;
+    line-height: 1.2;
+    color: #73b925;
+    font-weight: 600;
+    position: relative;
+    overflow: visible;
+    border-radius: 2px;
+}
+.sec3 .text span
+{
+    font-size: 15px;
+}
+.sec3 .text span strong
+{
+    color: #000;
+    font-weight: 500;
+}
+.sec3 .text .strg
+{
+    color: #73b925;
+    font-weight: 500;
+}
+.sec3 .text .button1 .btn
+{
+    background-color: #73b925;
+	color: white;
+	padding: 10px 20px;
+	margin-top: 20px;
+	border: 0px;
+	font-size: 12px;
+    font-weight: 500;
+}
+
+/*.................sec4......................*/
+
+.sec4 .gallery img
+{
+    width: 943px;
+    height: 600px;;
+}
+.sec4 .text{
+    padding: 80px 0px 80px 0px;
+}
+.sec4 .text h6
+{
+    color: #73b925;
+    margin-top: 30px;
+}
+.sec4 .text h1
+{
+   font-size: 40px;
+   font-weight: 700;
+}
+.sec4 .text p
+{
+    color: #999999;
+    margin-top: 30px;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.sec4 .card{
+    border: none;
+    background-color: white;
+}
+.sec4 .card .icon
+{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    background: white;
+    color: #fff;
+    border: 1px solid #73b925;
+    border-radius: 0 50% 50% 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.sec4 .card:hover .icon
+{
+    background-color: #73b925;
+}
+.sec4 .card .icon i
+{
+    font-size: 38px;
+    line-height: 1.2;
+    position: absolute;
+    color: #73b925;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sec4 .card:hover .icon i
+{
+   color: white;
+}
+.sec4 .card .card-body a{
+    color: #999999;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/*....................sec6...............*/
+
+.sec6
+{
+    background-color: whitesmoke;
+}
+.sec6 .main-heading h6
+{ 
+    text-align: center;
+    color: #73b925;
+    margin-top: 60px;
+}
+.sec6 .main-heading p
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 0px 386px;
+}
+.sec6 .photo
+{
+    width: 200px;
+    height: 200px;
+    background: #73b925;
+    border-radius:  50% 0 50% 50%;
+    border: 5px solid #73b925;
+    overflow: hidden;
+    position: absolute;
+    z-index: 1;
+    top: -100px;
+    left: -30px;
+}
+.sec6 .card{
+    margin-top: 130px;
+}
+.sec6 .card:hover
+{
+    background-color: #73b925;
+    color: white;
+}
+
+.sec6 .card .card-body
+{
+    padding: 30px;
+    margin-top: 80px;
+}
+.sec6 .card .card-body h3
+{
+    text-align: center;
+}
+.sec6 .card .card-body h6
+{
+    text-align: center;
+    color: #73b925;
+}
+.sec6 .card:hover .card-body h6
+{
+    color: white;
+}
+.sec6 .card .card-body .icon
+{
+    text-align: center;
+    margin-top: 20px;
+}
+.sec6 .card .card-body .icon i
+{
+    color: white;
+    background-color: #73b925;
+    padding: 10px 13px;
+    border-radius: 50% 50%;
+}
+.sec6 .card:hover .card-body .icon i
+{
+    background-color: #a4e756;
+}
+.sec6 .card .card-body p
+{
+    color: #999999;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 20px;
+}
+.sec6 .card:hover .card-body p
+{
+    color: white;
+}
+
+
+
+/*.........................sec7..................*/
+
+.sec7
+{
+    background-color: #e9e5e5;
+    padding-bottom: 60px;
+}
+.sec7 .main-heading h6
+{ 
+    text-align: center;
+    color: #73b925;
+    margin-top: 60px;
+}
+.sec7 .main-heading p
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 0px 386px;
+}
+.sec7 .item p
+{
+	color: #999999;
+	font-size: 18px;
+    font-weight: 500;
+}
+.owl-carousel
+{
+    margin-top: 20px;
+    padding: 20px 150px;
+}
+.owl-carousel .owl-item img {
+    width: 90px !important;
+    border-radius: 50% 50%;
+    float: left;
+}
+.sec7 .item
+{
+    background-color: white;
+    padding: 30px;
+}
+.sec7 .item .img-text
+{
+    padding-left: 75px;
+}
+.sec7 .item .img-text h5
+{
+	color: #73b925;
+	padding-left: 35px;
+	padding-top: 10px;
+	font-size: 22px;
+}
+.sec7 .item .img-text p
+{
+	color: black;
+	font-size: 15px;
+	margin-top: 0px;
+	text-align: left;
+	padding-left: 35px;
+}
+
+
+/*.................sec8.........................*/
+
+.sec8
+{
+    background-color: white;
+}
+
+.sec8 .text
+{
+    padding: 67px 40px;
+}
+.sec8 .text h1
+{
+    font-size: 44px;
+    font-weight: 500;
+    color: darkslategrey;
+}
+.sec8 .text p
+{
+    font-size: 18px;
+    font-weight: 500;
+    color: #999999;
+    margin-top: 30px;
+}
+.sec8 .text .text1
+{
+    background-color: #F9FAF7;
+    margin-top: 35px;
+}
+.sec8 .text .text1 .icon i
+{
+    color: #73b925;
+    font-size: 50px;
+    margin-top: 20px;
+}
+.sec8 .text .text1 .text2 ul 
+{
+    list-style-type: none;
+    margin-top: 15px;
+    padding-left: 30px;
+}
+.sec8 .text .text1 .text2 ul li span
+{
+    color: #73b925;
+    display: block;
+    line-height: 1.1;
+    font-size: 30px;
+}
+
+.sec8 .text .text1 .text2 ul li
+{
+    color: #999999;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+/*.....................sec9.........................*/
+
+.sec9
+{
+    background-color: #e9e5e5;
+}
+.sec9 .main-heading h6
+{ 
+    text-align: center;
+    color: #73b925;
+    margin-top: 30px;
+}
+.sec9 .main-heading p
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 0px 386px;
+    margin-bottom: 40px;
+}
+.sec9 .sec9-col1
+{
+    margin-bottom: 80px;
+}
+.sec9 .sec9-col1 .text
+{
+    position: relative;
+    z-index: 0;
+    padding: 30px;
+    background-color: white;
+}
+.sec9 .sec9-col1 .img img
+{
+    width: 330px !important;
+    height: 293px !important;
+}
+.sec9 .sec9-col1 .text .meta a
+{
+    color: #999999;
+    text-decoration: none;
+}
+.sec9 .sec9-col1 .text .meta a span, small
+{
+    color: #73b925;
+}
+.sec9 .sec9-col1 .text h3 a
+{
+    color:#000;
+    text-decoration: none;
+    font-size: 25px;
+}
+.sec9 .sec9-col1 .text h3 a:hover
+{
+    color: #73b925;
+}
+.sec9 .sec9-col1 .text p
+{
+    color: #999999;
+    font-size: 20px;
+}
+.sec9 .sec9-col1 .text .icon
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    background: #d7f1b9;
+}
+.sec9 .sec9-col1 .text .icon:hover i
+{
+    background-color: #73b925;
+    color: white;
+}
+.sec9 .sec9-col1 .text .icon i
+{
+    color: #73b925;
+    padding: 8px;
+}
+
+
+
+/*......................sec10...............*/
+
+.section10
+{
+    background-image: url(../images/10.jpg);
+}
+.sec10
+{
+    color: rgba(255,255,255,.8);
+    z-index: 0;
+    position: relative;
+    padding: 5em 0;
+}
+.sec10 .sec10-overlay
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: '';
+    opacity: .8;
+    background: #73b925;
+    z-index: -1;
+}
+.sec10 .text 
+{
+    padding: 50px 0px;
+}
+.sec10 .text h6
+{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.sec10 .text h1
+{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.sec10 .button1
+{
+    margin-top: 54px;
+    text-align: right;
+    margin-right: 140px;
+}
+.sec10 .button1 .btn
+{
+    background-color: white;
+    color: #73b925;
+    padding: 15px 40px;
+    font-weight: 700;
+}
+
+/*..............footer.................*/
+
+.footer1
+{
+    background-image: url(../images/1.jpg);
+}
+.ftr1{
+    margin-top: 40px;
+}
+.ftr1 .main-heading ul
+{
+	list-style-type: none;
+    margin-top: 20px;
+    padding: 0px;
+}
+.ftr1 .main-heading ul li a
+{
+	text-decoration: none;
+	font-weight: 800;
+    font-size: 27px;
+    color: #fff;
+    line-height: 1.1;
+}
+.ftr1 .main-heading ul li a small
+{
+	font-size: 27px;
+    color: #73b925;
+}
+.ftr1 .main-heading ul li a span
+{
+    color: #999999;
+    font-size: 11px;
+    display: block;
+    font-weight: 600;
+    letter-spacing: 2px; 
+}
+.ftr1 p
+{
+    color: white;
+    margin-top: 30px;
+    font-size: 23px;
+}
+.ftr1 .icon i
+{
+    color: white;
+    background-color: #73b925;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.ftr2
+{
+    margin-top: 40px;
+}
+.ftr2 h3
+{
+    color: white;
+}
+.ftr2 .icon1
+{
+    margin-top: 25px;
+}
+.ftr2 .icon1 i
+{
+	color: white;
+    padding-right: 10px;
+}
+.ftr2 .icon1 a
+{
+	color: white;
+	text-decoration: none;
+}
+.ftr2 .icon1 a:hover
+{
+    color: #73b925;
+}
+.ftr3
+{
+    margin-top: 40px;
+}
+.ftr3 h3
+{
+    color: white;
+    margin-bottom: 25px;
+}
+.ftr3 .text img
+{
+   width: 80px;
+   height: 60px;
+}
+.ftr3 .text .text1 .meta a
+{
+    color: white;
+    text-decoration: none;
+}
+.ftr3 .text .text1 p a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.ftr4
+{
+    margin-top: 40px;
+}
+.ftr4 h3
+{
+    color: white;
+}
+.ftr4 .text p
+{
+    color: white;
+    margin-top: 25px;
+}
+.ftr4 .text p span
+{
+    padding-right: 20px;
+}
+.foot2
+{
+    background-color: #1C1C1C;
+
+}
+.foot2 p
+{
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+    padding-right: 50px;
+}
+.foot2 a, i
+{
+	color: white;
+    text-align: center;
+}
+
+
+/*......................about us page..................*/
+
+
+
+.sec1-about
+{
+    position: relative;
+}
+.sec1-about .sec1-img img
+{
+    width: 100% !important;
+    height: 100% !important;
+}
+.sec1-about .text
+{
+
+    position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+}
+.sec1-about .text ul
+{
+    list-style-type: none;
+    font-size: 20px;
+   padding: 0px;
+   margin: 0px;
+   padding-left: 40px;
+}
+.sec1-about .text ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+.sec1-about .text ul li a:hover
+{
+    color: #73b925;
+}
+.sec1-about .text ul li a:hover i
+{
+    color: #73b925;
+}
+.sec1-about .text ul li 
+{
+    color: white;
+    display: inline;
+}
+.sec1-about .text h1
+{
+    font-size: 60px;
+    color: white;
+}
